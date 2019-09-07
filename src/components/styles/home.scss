@@ -1,0 +1,34 @@
+.home {
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+// misc
+.flex-center {
+  display: flex;
+  align-items: center;
+}
+
+.no-underline {
+  text-decoration: none !important;
+}
+
+.border {
+  border: 1px solid transparent;
+}
+
+.footer-icon-credit {
+  position: absolute;
+  bottom: 0;
+  left: 1em;
+  font-size: 8px;
+}
+
+.navbar {
+  box-shadow: 0 5px 2px 1px #772953;
+  position: fixed !important;
+  width: 100vw;
+  top: 0;
+}
